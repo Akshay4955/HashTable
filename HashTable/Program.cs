@@ -10,5 +10,7 @@ internal class Program
         myHashTable.Add("Rahul");
         myHashTable.Add("Mangesh");
         myHashTable.Add("Vishal");
+
+        myHashTable.Display();
     }
 }
