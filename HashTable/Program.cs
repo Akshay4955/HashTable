@@ -12,5 +12,8 @@ internal class Program
         myHashTable.Add("Vishal");
 
         myHashTable.Display();
+
+        myHashTable.Search("Rupesh");
+        myHashTable.Search("AnyName");
     }
 }
